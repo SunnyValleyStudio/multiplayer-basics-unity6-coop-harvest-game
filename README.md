@@ -1,5 +1,5 @@
 # Unity 6 Learn Multiplayer Basics by making a Co-op Harvest Game
-[![Tutorial Sectiont 1](http://img.youtube.com/vi/leBl6q21-0I/hqdefault.jpg)](https://youtu.be/leBl6q21-0I)
+[![Tutorial Sectiont 1](http://img.youtube.com/vi/nD_K_diocV0/hqdefault.jpg)](https://youtu.be/nD_K_diocV0)
 
 Learn how to create a cooperative multiplayer resource gathering game built with Unity 6 and Netcode for GameObjects. 
 Players will work together to collect wood and stone resources.
