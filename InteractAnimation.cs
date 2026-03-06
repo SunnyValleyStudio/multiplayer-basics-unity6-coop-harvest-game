@@ -22,7 +22,7 @@ public class InteractAnimation : MonoBehaviour
         m_originScale = m_resourceVisual.localScale;
     }
 
-    public void ShakeTree()
+    public void Shake()
     {
         if (m_shakeCoroutine != null)
             StopCoroutine(m_shakeCoroutine);

@@ -25,6 +25,6 @@ public class ItemsAudio : MonoBehaviour
 
     public void PlaySoundSeparate()
     {
-        AudioSource.PlayClipAtPoint(m_audioClip,transform.position);
+        AudioSource.PlayClipAtPoint(m_audioClip,transform.position, 0.2f);
     }
 }
